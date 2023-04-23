@@ -1,6 +1,6 @@
 let accessToken;
 const clientId = 'a9002155fe0f4f1eb296f799f0270677';
-const redirectUri = 'http://mountainous-alarm.surge.sh';
+const redirectUri = 'http://alcoholic-detail.surge.sh';
 
 const Spotify = {
     getAccessToken() {
